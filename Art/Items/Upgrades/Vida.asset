@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15b671c1db802247924f4fdf5d499a7, type: 3}
+  m_Name: Vida
+  m_EditorClassIdentifier: Assembly-CSharp::MejorasDatos
+  upgradeName: Mejora de Vida
+  description: Mejora la Vida.
+  icon: {fileID: 21300000, guid: 1efef68a05087fc41abf1d160df9f3a2, type: 3}
+  type: 0
+  value: 10
