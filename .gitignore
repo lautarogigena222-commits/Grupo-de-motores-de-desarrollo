@@ -1,6 +1,35 @@
+# Unity: archivos generados localmente
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDE y editores
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.tmp
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Unity cache / pruebas
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/StreamingAssets/aa.meta
+[Aa]ssets/StreamingAssets/aa/
+
+# Mantener versionados Assets, Packages, ProjectSettings y archivos .meta
